@@ -32,7 +32,7 @@
             },
             {
                 id:5,
-                username:"Angelina",
+                username:"Taimoor Hassan",
                 user_avatar:"https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/68551398_2543262182358735_4850778086062424064_n.jpg?_nc_cat=105&_nc_oc=AQmx2VZ1THloWYAEwZiDEoMGNQ5Cqm_2re6uHPjDPqhyOCNZXpQfpVsVp8H7knyk2kQ&_nc_ht=scontent-amt2-1.xx&oh=ab7a3b9a8d7b9f7ca8f9a0f5d4c81d43&oe=5E26001C",
                 image: "https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/68551398_2543262182358735_4850778086062424064_n.jpg?_nc_cat=105&_nc_oc=AQmx2VZ1THloWYAEwZiDEoMGNQ5Cqm_2re6uHPjDPqhyOCNZXpQfpVsVp8H7knyk2kQ&_nc_ht=scontent-amt2-1.xx&oh=ab7a3b9a8d7b9f7ca8f9a0f5d4c81d43&oe=5E26001C",
                 caption:"#Photoshoot,#NIC "
